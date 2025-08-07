@@ -7,10 +7,6 @@
   };
 };
 
-&spi2 {
-   status = "disabled";
-};
-
 &pinctrl {
    spi3_default: spi3_default {
 		group1 {
